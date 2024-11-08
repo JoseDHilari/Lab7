@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1721600123 source:c:\users\lenovo\desktop\iv\algoritmos\grafos_dinamicos\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1573891735 c:\users\lenovo\desktop\iv\algoritmos\grafos_dinamicos\miniwin.h
+	<iostream>
+
+1721708208 source:c:\users\lenovo\desktop\iv\algoritmos\grafos_dinamicos\grafos_dinamicos.cpp
+	"MiniWin.h"
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cmath>
+	<windows.h>
+	<cstdio>
+
+1721708208 source:c:\users\lenovo\desktop\ \practicas\grafos_dinamicos\grafos_dinamicos.cpp
+	"MiniWin.h"
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cmath>
+	<windows.h>
+	<cstdio>
+
+1573891735 c:\users\lenovo\desktop\ \practicas\grafos_dinamicos\miniwin.h
+	<iostream>
+
+1721600123 source:c:\users\lenovo\desktop\ \practicas\grafos_dinamicos\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1721600123 source:c:\users\lenovo\desktop\v\analisis y diseño de algoritmos 2024\lab 7\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1573891735 c:\users\lenovo\desktop\v\analisis y diseño de algoritmos 2024\lab 7\miniwin.h
+	<iostream>
+
+1731074726 source:c:\users\lenovo\desktop\v\analisis y diseño de algoritmos 2024\lab 7\grafos_dinamicos.cpp
+	"MiniWin.h"
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<iostream>
+	<cmath>
+	<windows.h>
+	<cstdio>
+	<vector>
+	<queue>
+	<stack>
+
